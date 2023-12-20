@@ -4,9 +4,9 @@ The Speaking Clock project is a simple application that converts the current tim
 
 # Technologies Used
 ______________________
-Java 17
-Spring Boot
-Maven
+Java 17 <br>
+Spring Boot <br>
+Maven <br>
 SwaggerApi-For API Documemtation
 
 # Prerequisites
