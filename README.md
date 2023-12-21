@@ -7,7 +7,7 @@ ______________________
 Java 17 <br>
 Spring Boot <br>
 Maven <br>
-SwaggerApi-For API Documemtation
+Swagger Api-For API Documemtation
 
 # Prerequisites
 ______________________
